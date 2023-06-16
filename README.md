@@ -16,7 +16,7 @@
 
 - 💬 Ask me anything about **Cloud Security || Cybersecurity**
 
-- 📫 How to reach me **goodycyb@gmail.com**
+- 📫 How to reach me @ **goodycyb@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
