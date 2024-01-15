@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm goody</h1>
-<h3 align="center">Cloud Threat Researcher @ Permiso </h3>
+<h3 align="center">Cloud Security Content Engineer @ Pwnlabs </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goodycy3&label=Profile%20views&color=0e75b6&style=flat" alt="goodycy3" /> </p>
 <img align="right" alt="Working" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/a85c0dcdcc774c6f340b07518363d6fb.gif">
