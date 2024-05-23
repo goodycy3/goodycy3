@@ -28,7 +28,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/adediran-goodness/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adediran-goodness/" height="30" width="40" /></a>
 <a href="https://hashnode.com/@goodycyb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@goodycyb" height="30" width="40" /></a>
 <a href="https://medium.com/@goodycyb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@goodycyb" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/goodycyb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="goodycyb" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@goodycyb3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="goodycyb" height="30" width="40" /></a>
 <a href="https://goodycyb.hashnode.dev/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://goodycyb.hashnode.dev/" height="30" width="40" /></a>
 </p>
 
