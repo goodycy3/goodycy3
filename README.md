@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/goodycyb" target="blank"><img src="https://img.shields.io/twitter/follow/goodycyb?logo=twitter&style=for-the-badge" alt="goodycyb" /></a> </p>
 
-- 🌱 I’m currently learning **Cloud Threat Detection on AWS & GCP || Automation with Python scripting and Terraform**
+- 🌱 I’m currently building projects on **Cloud Threat Detection on AWS & Azure || Automation with Bash, Python scripting and Terraform**
 
 - 👯 I’m looking to collaborate on **Cloud Threat Detection Projects on any CSPs**
 
