@@ -14,7 +14,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@goodycyb](https://medium.com/@goodycyb)
 
-- 💬 Ask me anything about **Cloud Security || Cybersecurity**
+- 💬 Ask me anything about **Cloud Security || DevSecOps || Threat Detection**
 
 - 📫 How to reach me @ **goodycyb@gmail.com**
 
